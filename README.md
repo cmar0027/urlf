@@ -3,7 +3,9 @@
 Simple and secure URL formatting.
 
 ## Install
-`go get github.com/cmar0027/urlf`
+`go get github.com/cmar0027/urlf@v1.0.0`
+
+Godocs [here](https://pkg.go.dev/github.com/cmar0027/urlf@v1.0.0).
 
 ## Usage
 
